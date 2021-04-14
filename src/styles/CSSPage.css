@@ -1,0 +1,16 @@
+.helloPage {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.big {
+    text-transform: uppercase;
+}
+
+.line {
+    text-decoration: underline;
+}
+
+.textRed {
+    color: red;
+}
