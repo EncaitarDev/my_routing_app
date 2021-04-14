@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my_routing_app/static/css/main.5c1ba399.chunk.css",
+    "main.js": "/my_routing_app/static/js/main.ee3b627e.chunk.js",
+    "main.js.map": "/my_routing_app/static/js/main.ee3b627e.chunk.js.map",
+    "runtime-main.js": "/my_routing_app/static/js/runtime-main.5bfda983.js",
+    "runtime-main.js.map": "/my_routing_app/static/js/runtime-main.5bfda983.js.map",
+    "static/js/2.b51219a5.chunk.js": "/my_routing_app/static/js/2.b51219a5.chunk.js",
+    "static/js/2.b51219a5.chunk.js.map": "/my_routing_app/static/js/2.b51219a5.chunk.js.map",
+    "index.html": "/my_routing_app/index.html",
+    "static/css/main.5c1ba399.chunk.css.map": "/my_routing_app/static/css/main.5c1ba399.chunk.css.map",
+    "static/js/2.b51219a5.chunk.js.LICENSE.txt": "/my_routing_app/static/js/2.b51219a5.chunk.js.LICENSE.txt",
+    "static/media/1.325c5383.jpg": "/my_routing_app/static/media/1.325c5383.jpg",
+    "static/media/2.2c1a915b.jpg": "/my_routing_app/static/media/2.2c1a915b.jpg",
+    "static/media/3.8309c221.jpg": "/my_routing_app/static/media/3.8309c221.jpg",
+    "static/media/4.48aafdef.jpg": "/my_routing_app/static/media/4.48aafdef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bfda983.js",
+    "static/js/2.b51219a5.chunk.js",
+    "static/css/main.5c1ba399.chunk.css",
+    "static/js/main.ee3b627e.chunk.js"
+  ]
+}
