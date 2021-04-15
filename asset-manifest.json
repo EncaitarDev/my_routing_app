@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my_routing_app/static/css/main.5c1ba399.chunk.css",
-    "main.js": "/my_routing_app/static/js/main.ee3b627e.chunk.js",
-    "main.js.map": "/my_routing_app/static/js/main.ee3b627e.chunk.js.map",
+    "main.js": "/my_routing_app/static/js/main.61f4b031.chunk.js",
+    "main.js.map": "/my_routing_app/static/js/main.61f4b031.chunk.js.map",
     "runtime-main.js": "/my_routing_app/static/js/runtime-main.5bfda983.js",
     "runtime-main.js.map": "/my_routing_app/static/js/runtime-main.5bfda983.js.map",
     "static/js/2.b51219a5.chunk.js": "/my_routing_app/static/js/2.b51219a5.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5bfda983.js",
     "static/js/2.b51219a5.chunk.js",
     "static/css/main.5c1ba399.chunk.css",
-    "static/js/main.ee3b627e.chunk.js"
+    "static/js/main.61f4b031.chunk.js"
   ]
 }
